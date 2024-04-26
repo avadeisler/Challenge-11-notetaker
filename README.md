@@ -1,5 +1,3 @@
-# Challenge-11-notetaker
-
 I had to take exsisting starter code that set up the front end of a notetaker app and create the backend and connect the two pieces. I got the server file done and npm installed correctly. I just could not get npm start to run properly. I will return to this assignment down the road once I've turned in my other challenges.
 
 Criteria:
